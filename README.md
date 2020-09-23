@@ -1,16 +1,33 @@
 ﻿<div align="center">
 
-## Ping .NET Class!<br/>by Karabunga
+## Ping \.NET Class\!
+
 
 </div>
 
 ### Description
 
 Ping a machine from .NET. This code is CLR compliant.
-
+ 
 ### More Info
-
+ 
 The code is a complete console application which can easilly modified to become Windows Form.
+
+
+<span>             |<span>
+---                |---
+**Submitted On**   |
+**By**             |[Karabunga](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByAuthor/karabunga.md)
+**Level**          |Advanced
+**User Rating**    |4.8 (19 globes from 4 users)
+**Compatibility**  |C\#
+**Category**       |[Internet/ Browsers/ HTML](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByCategory/internet-browsers-html__10-9.md)
+**World**          |[\.Net \(C\#, VB\.net\)](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByWorld/net-c-vb-net.md)
+**Archive File**   |[](https://github.com/Planet-Source-Code/karabunga-ping-net-class__10-335/archive/master.zip)
+
+
+
+
 
 ### Source Code
 
